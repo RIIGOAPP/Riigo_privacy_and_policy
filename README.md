@@ -89,7 +89,7 @@ Request deletion of your data, subject to legal or contractual restrictions.
 8. Contact Us
 
 If you have any questions or concerns regarding these Terms or this Privacy Policy, please contact us at:
-📧 support@riigoapp.com
+info.riigo@gmail.com
 
 Disclaimer
 
