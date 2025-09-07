@@ -1,6 +1,3 @@
-# Riigo_privacy_and_policy
-
-
 Riigo – Terms and Conditions
 
 Last Updated: [07/sep/2025]
@@ -13,7 +10,7 @@ Riigo is a digital platform that connects customers with professional workers wh
 Riigo does not provide services directly.
 Riigo’s role is strictly limited to facilitating connections between customers and workers.
 
-3. How It Works
+2. How It Works
 
 A customer searches for a worker through the Riigo App.
 The customer and worker communicate to discuss job details and pricing.
@@ -21,19 +18,17 @@ The customer and worker meet in person to complete the job.
 Payment is made directly by the customer to the worker, using the worker’s preferred payment method (eDahab, Zaad, or cash).
 Riigo charges a commission once a worker accepts a job. The commission is recorded at the time of acceptance.
 
-5. Riigo’s Role
+3. Riigo’s Role
 
 Riigo is only a facilitator and is not responsible for:
-
 The quality, safety, or completion of services provided by workers.
 Payment disputes, delays, or refunds between customers and workers.
 Damages, losses, or delays resulting from services.
 All agreements and payments are solely the responsibility of the customer and the worker.
 
-7. User Responsibilities
+4. User Responsibilities
 
 Customers must:
-
 Clearly define the job they require.
 Treat workers respectfully and fairly.
 Pay workers promptly once the job is completed.
@@ -42,14 +37,11 @@ Perform all accepted jobs professionally and in good faith.
 Provide accurate information about their skills and availability.
 Only accept jobs they are capable of completing.
 
-
-
 Privacy Policy – Riigo
 
 Last Updated: [07/sep/2025]
 
-Riigo values and respects your privacy. 
-This Privacy Policy explains what personal data we collect, why we collect it, and how we use and protect it.
+Riigo values and respects your privacy. This Privacy Policy explains what personal data we collect, why we collect it, how we use it, and how we protect it.
 
 1. Information We Collect
 
@@ -64,6 +56,7 @@ App usage information (such as services you search for)
 We use the collected data to:
 Connect customers with workers.
 Monitor and improve the App’s performance and user experience.
+Ensure communication and functionality of location-based services.
 
 3. Sharing of Information
 
@@ -74,11 +67,29 @@ Information may only be shared if required by law or with your explicit consent.
 
 We use reasonable security measures to protect your personal information. However, no system is 100% secure, and we cannot guarantee complete protection against unauthorized access or breaches.
 
-5. Your Rights
+5. Data Retention
+
+We retain personal information only for as long as necessary to:
+Provide services,
+Comply with legal obligations, or
+Resolve disputes.
+When data is no longer required, it will be securely deleted.
+
+6. Children’s Privacy
+
+Riigo is not directed to children under the age of 13. We do not knowingly collect data from children. If we learn that a child under 13 has provided personal data, we will delete it immediately.
+
+7. Your Rights
 
 You have the right to:
 Request access to the data we hold about you.
-Request correction or deletion of your personal data.
+Request correction of your personal information.
+Request deletion of your data, subject to legal or contractual restrictions.
+
+8. Contact Us
+
+If you have any questions or concerns regarding these Terms or this Privacy Policy, please contact us at:
+📧 support@riigoapp.com
 
 Disclaimer
 
