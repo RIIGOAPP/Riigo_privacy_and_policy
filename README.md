@@ -39,7 +39,6 @@ Only accept jobs they are capable of completing.
 
 Privacy Policy – Riigo
 
-Last Updated: [07/sep/2025]
 
 Riigo values and respects your privacy. This Privacy Policy explains what personal data we collect, why we collect it, how we use it, and how we protect it.
 
