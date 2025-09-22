@@ -1,6 +1,6 @@
 Riigo – Terms and Conditions
 
-Last Updated: 07 September 2025
+Last Updated: 22 September 2025
 
 Welcome to Riigo. These Terms and Conditions (“Terms”) govern your use of the Riigo mobile applications (including both Riigo Taskers and Riigo Customers). By accessing or using Riigo, you agree to these Terms. If you do not agree, you should not use the App.
 
